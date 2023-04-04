@@ -51,3 +51,10 @@ and represent it visually.
   3. Suggest teams or players a company should endorse for its products. 
   4. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS).
   5. Dataset: https://bit.ly/34SRn3b
+  
+ ### TASK6 - Prediction using Decision Tree Algorithm (Level - Intermediate)
+  1. Create the Decision Tree classifier and visualize it graphically. 
+  2. The purpose is if we feed any new data to this classifier, it would be able to 
+predict the right class accordingly. 
+  3. Dataset : https://bit.ly/3kXTdox
+  4. Sample Solution : https://bit.ly/2G6sYx9
