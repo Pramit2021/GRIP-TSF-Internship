@@ -9,7 +9,7 @@
   - Internship Duration - 1 Month ( October-2020 )
   - Internship Type - Work from Home
 
- In this internship, we were provided a total of 8 Tasks and I was able to successfully complete 6 tasks within the given time-frame.
+ In this internship, we were provided a total of 8 Tasks and I was able to successfully complete 6 tasks. 
   
   
  ### TASK1 - Prediction using Supervised ML (Level - Beginner)
