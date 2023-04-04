@@ -1,6 +1,7 @@
 <h1>The Sparks Foundation Internship<h1>       
   
-![Sparks_foundation_selection_certificate](https://user-images.githubusercontent.com/93142399/229820955-7f119761-0409-4830-be99-eb5bf881a7c8.png)
+![Sparks_foundation_selection_certificate](https://user-images.githubusercontent.com/93142399/229821083-294a7328-427d-4ae8-a400-c18d812b1c5e.png)
+
 
   
 #### This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation](https://internship.thesparksfoundation.info/).
