@@ -7,7 +7,7 @@
 #### This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation](https://internship.thesparksfoundation.info/).
   
   - Internship Category - Data Science and Business Analytics
-  - Internship Duration - 1 Month ( October-2020 )
+  - Internship Duration - 1 Month ( April-2023 ) 
   - Internship Type - Work from Home
 
  In this internship, we were provided a total of 8 Tasks and I was able to successfully complete 6 tasks. 
@@ -59,3 +59,4 @@ and represent it visually.
 predict the right class accordingly. 
   3. Dataset : https://bit.ly/3kXTdox
   4. Sample Solution : https://bit.ly/2G6sYx9
+
