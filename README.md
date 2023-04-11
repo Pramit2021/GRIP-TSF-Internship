@@ -1,4 +1,4 @@
-<h1>(GRIP)The Sparks Foundation Internship<h1>       
+<h1>GRIP-TSF-Internship<h1>       
   
 ![Sparks_foundation_selection_certificate](https://user-images.githubusercontent.com/93142399/229821083-294a7328-427d-4ae8-a400-c18d812b1c5e.png)
 
